@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #000;
+}
+
+#game-credit {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  background: rgba(30, 30, 30, 0.85);
+  color: #fff;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  font-size: 1.2rem;
+  padding: 10px 0;
+  text-align: center;
+  letter-spacing: 1px;
+  z-index: 1000;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
