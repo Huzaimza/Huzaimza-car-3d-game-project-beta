@@ -1,1 +1,1 @@
-# Huzaimza-car-3d-game-project-beta
+controls:up down left right
